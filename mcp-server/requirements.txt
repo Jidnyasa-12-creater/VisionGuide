@@ -1,0 +1,6 @@
+# mcp-server requirements
+mcp-server-sdk
+fastapi
+uvicorn
+Pillow
+pydantic

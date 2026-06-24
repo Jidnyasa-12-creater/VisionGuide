@@ -1,0 +1,10 @@
+# VisionGuide AI Backend
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+google-genai
+python-multipart
+pytest
+httpx

@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite:///./visionguide.db
+    volumes:
+      - ./backend:/app
+      
+  mcp-server:
+    build: ./mcp-server
+    ports:
+      - "8001:8001"
+    volumes:
+      - ./mcp-server:/app
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
