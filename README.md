@@ -60,6 +60,9 @@ Empowering Independence Through AI-Powered Vision
 
 ♿ Accessibility| Screen reader support, TTS, high contrast and large text
 
+<!-- Failed to upload "VisionGuide Video.mp4" -->
+
+
 ---
 
 🏗️ System Overview
