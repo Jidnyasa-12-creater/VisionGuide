@@ -1,10 +1,15 @@
-# VisionGuide AI Backend
 fastapi
-uvicorn
+uvicorn[standard]
 sqlalchemy
 pydantic
 pydantic-settings
-google-genai
+google-generativeai
 python-multipart
+python-dotenv
+Pillow
+aiofiles
+structlog
 pytest
+pytest-asyncio
 httpx
+pytest-cov
