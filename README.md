@@ -70,16 +70,26 @@ Empowering Independence Through AI-Powered Vision
            🧠 Planner AI Agent
                       │
 ───────────────────────────────────────────
+
 🌄 Scene  
+
 📄 OCR
+
 🔍 Objects
+
 👕 Clothing 
+
 🚶 Navigation
+
 😀 Gestures
+
 💵 Currency 
+
 🧠 Memory 
+
 🎤 Voice
 ───────────────────────────────────────────
+
                       │
                       ▼
                       
