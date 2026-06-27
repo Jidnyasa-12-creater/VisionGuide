@@ -52,6 +52,10 @@ Empowering Independence Through AI-Powered Vision
 
 🚶 Navigation| Obstacle detection with walking guidance
 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5446da89-a4a4-4ea0-8cc8-6d011e9616fb" />
+
+
 😀 Human Recognition| Detect gestures, poses and facial expressions
 
 🎤 Voice Assistant| Natural voice conversations and commands
