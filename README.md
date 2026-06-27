@@ -104,6 +104,12 @@ Empowering Independence Through AI-Powered Vision
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5446da89-a4a4-4ea0-8cc8-6d011e9616fb" />
 
 
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/75773cab-b050-420d-8089-8e95737f22fa" />
+
+
+
 ---
 
 📊 Project Snapshot
