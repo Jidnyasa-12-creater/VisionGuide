@@ -32,15 +32,25 @@ Empowering Independence Through AI-Powered Vision
 ✨ Key Capabilities
 
 🚀 Capability| 💡 Description
+
 🌄 Scene Understanding| Complete AI description of the user's surroundings
+
 🔍 Object Detection| Detect nearby objects with location awareness
+
 📄 OCR| Read books, documents, labels and signs aloud
+
 💵 Currency Recognition| Identify notes and denominations instantly
+
 👕 Clothing Analysis| Detect clothing type, color and style
+
 🚶 Navigation| Obstacle detection with walking guidance
+
 😀 Human Recognition| Detect gestures, poses and facial expressions
+
 🎤 Voice Assistant| Natural voice conversations and commands
+
 🧠 Memory| Store and recall important user information
+
 ♿ Accessibility| Screen reader support, TTS, high contrast and large text
 
 ---
