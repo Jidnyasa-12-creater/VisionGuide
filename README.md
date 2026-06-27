@@ -70,15 +70,23 @@ Empowering Independence Through AI-Powered Vision
            🧠 Planner AI Agent
                       │
 ───────────────────────────────────────────
-🌄 Scene     📄 OCR     🔍 Objects
-👕 Clothing  🚶 Navigation 😀 Gestures
-💵 Currency  🧠 Memory  🎤 Voice
+🌄 Scene  
+📄 OCR
+🔍 Objects
+👕 Clothing 
+🚶 Navigation
+😀 Gestures
+💵 Currency 
+🧠 Memory 
+🎤 Voice
 ───────────────────────────────────────────
                       │
                       ▼
+                      
                ✨ Gemini AI
                       │
                       ▼
+                      
            🔊 Voice + Text Response
 
 ---
@@ -86,14 +94,23 @@ Empowering Independence Through AI-Powered Vision
 📊 Project Snapshot
 
 📈 Metric| 🚀 Value
+
 🤖 AI Agents| 9
+
 🌐 REST APIs| 20+
+
 🧪 Unit Tests| 30+
+
 📁 Source Files| 50+
+
 🐳 Docker Ready| ✅
+
 ♿ Accessibility Features| 10+
+
 💻 Languages| Python + TypeScript
+
 ⚡ Backend| FastAPI
+
 🎨 Frontend| React + Tailwind CSS
 
 ---
