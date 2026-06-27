@@ -25,7 +25,7 @@ Empowering Independence Through AI-Powered Vision
 🌍 AI Accessibility • 👁️ Computer Vision • 🎙️ Voice Assistant • 🧠 Multi-Agent Intelligence
 
 «Transforming a smartphone into an intelligent visual assistant for blind and low-vision users through advanced Generative AI.»
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/27511d14-139e-4938-abaa-85346e37de3d" />
 ---
 
 🎥 Demo
