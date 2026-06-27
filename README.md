@@ -5,12 +5,19 @@ Empowering Independence Through AI-Powered Vision
 🏆 Google × Kaggle GenAI Capstone Project
 
 <p>"Python" (https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+  
 "React" (https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
+
 "FastAPI" (https://img.shields.io/badge/FastAPI-Ready-009688?style=for-the-badge&logo=fastapi)
+
 "TypeScript" (https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript)
+
 "Gemini AI" (https://img.shields.io/badge/Gemini-AI-4285F4?style=for-the-badge)
+
 "Docker" (https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker)
+
 "Accessibility" (https://img.shields.io/badge/Accessibility-First-success?style=for-the-badge)
+
 "MIT License" (https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 </p>---
